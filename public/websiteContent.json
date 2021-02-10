@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name":"Confidential Recruiting",
+    "occupation":"Manufacturing Recruiting",
+    "description":"for Upper Level professionals",
+    "image":"profilepic.jpg",
+    "bio":"Choosing a new career or changing job positions is a life-altering decision. At Confidential Recruiting, based in Jackson, Michigan, we understand the challenges this brings. Our job is to match you with the right opportunities that will allow you to maximize your potential so you will enjoy going to work every day. We have a proven track record of prequalifying our candidates and a solid reputation for having a high success rate for job placement that has enabled our clients to grow their careers. We specialize in upper-level professional placement, and the majority of what we place are automotive and general manufacturing positions, including sales managers, engineers, accountants, logistics managers, production supervisors, and more. We also work with managers who have entry-level positions available for skilled trades that do not require a degree, but a unique skillset. No matter what job you are interested in applying for, confidentiality is always assured.",
+    "contactmessage":"Please contact if you are interested.",
+    "email": "Careers@ConfidentialRecruiting.com",
+    "phone": "517-841-1721",
+    "fax": "517-841-6079",
+    "address":{
+      "street":"",
+      "city":"Jackson",
+      "state":"Michigan",
+      "zip": ""
+    },
+    "website": "www.ConfidentialRecruiting.com",
+    "resumedownload":"/images/Confidential Recruiting Brochure 2019.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Confidential-Recruiting-1724271190980403/?ref=page_internal",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Do you cringe when you write out that enormous check to a recruiting firm?",
+        "degree":"",
+        "graduated":"Confidential ruiting offers a 15% recruiting rate for all professional placement positions.",
+        "description":""
+      },
+      {
+        "school":"Would you love the luxury of using a recruiting company, but have always found the costs prohibitive for your business?",
+        "degree":"",
+        "graduated":"We strive to make sure all expectations are clear so no time and money is wasted on a candidate that is not a good fit.",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"TIME SAVED = MONEY SAVED",
+        "title":"",
+        "years":"An order placed with Confidential Recruiting gives you access to our database of over 30,000 candidates along with many other search engines that are available to us.",
+        "description":""
+      },
+      {
+        "company":"If there was a way to save your managers time, and your company money, would you take it?",
+        "title":"",
+        "years":"We are so Confident that you will be happy with our service that we offer a 60 DAY REPlACEMENT GUARANTEE. If our placement does not work out FOR ANy REASON, we will replace that person FREE of charge for 60 calender days.",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "positions":{
+    "projects": [
+      {
+        "title":"Manufacturing",
+        "category":"",
+        "image":"manufacturing.jpg",
+        "url":"https://www.linkedin.com"
+      },
+      {
+        "title":"Automotive",
+        "category":"",
+        "image":"auto.jpg",
+        "url":"http://www.linkedin.com"
+      },
+      {
+        "title":"Logistics",
+        "category":"",
+        "image":"logistics.jpg",
+        "url":"http://www.linkedin.com"
+      },
+      {
+        "title":"Sales",
+        "category":"",
+        "image":"sales.jpg",
+        "url":"http://www.linkedin.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"\"Here we should write some nice things that clients have said.\"",
+        "user":"Henry Ford"
+      },
+      {
+        "text":"\"That Carol Cosgriff must be one of the most brilliant recruiters I've ever met!\"",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
